@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#banner{
+    height: 400px;
+    background-image: url(../imgdois/capa\ inicio.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#tn1, #tn2, #tn3, #tn4, #tn5, #tn6, #tn7{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#tn1{
+    height: 400px;
+    background-image: url(../imgdois/inicio\ am.jpg);
+}
+#tn2{
+    height: 400px;
+    background-image: url(../imgdois/malvestida-DMl5gG0yWWY-unsplash.jpg);
+}
+#tn3{
+    height: 400px;
+    background-image: url(../imgdois/inicio\ v.jpg)
+}
+#tn4{
+    height: 400px;
+    background-image: url(../imgdois/wengang-zhai-_fOL6ebfECQ-unsplash.jpg);
+}
+#tn5{
+    height: 700px;
+    background-image: url(../imgdois/vermelho\ inicio.jpg);
+}
+#tn6{
+    height: 700px;
+    background-image: url(../imgdois/varios\ inicio.jpg);
+}
+#tn7{
+    height: 700px;
+    background-image: url(../imgdois/caixa\ incio.jpg);
+        margin: 0%;
+        padding: 0%;
+    }
+    
